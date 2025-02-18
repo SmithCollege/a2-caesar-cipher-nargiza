@@ -15,6 +15,12 @@ References Used:
 
 What was your favorite part of this assignment?
 
+Creating Caesar cipher itslef, thinking about how to shift the objects within array
+
 What was most challenging about this assignment?
 
+Making sure that all the tests are running and debugging them 
+
 General comments on your experience with this assignment:
+
+It was very interesting in terms of both working with new platform (GitHub classroom) and being in the role of tester 
