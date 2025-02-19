@@ -19,7 +19,7 @@ public class CaesarCipher {
      * @param offset Offset to use when creating `cipher` of DynamicArray type
      */
     CaesarCipher(int offset){
-        this.offset = offset;
+        // Fill in here
     }
 
     /** Implementation of linear search that looks through the alphabet
@@ -35,8 +35,7 @@ public class CaesarCipher {
 
     /** Encode a message using the cipher
      * @param T message to encode
-     * @return encoded message
-     */  
+     * @return encoded message */  
     public String encode(String message){
         // Fill in here and update return statement based on your code
         return new String(); 
@@ -46,7 +45,7 @@ public class CaesarCipher {
      * @param String message to decode
      * @param int key to use in decoding
      * @return decoded message
-     */
+    */
     public String decode(String message){
         // Fill in here and update return statement based on your code
         return new String();
