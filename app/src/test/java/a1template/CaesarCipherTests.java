@@ -19,14 +19,20 @@ public class CaesarCipherTests {
     @Test
     public void setupTest(){
         CaesarCipher classUnderTest = new CaesarCipher(3);
-        assertEquals('o',classUnderTest.get(17));
-        assertEquals('a',classUnderTest.get(3));
-        assertEquals('w',classUnderTest.get(25));
-        assertEquals('x',classUnderTest.get(0));
+        Character char1 = 'o';
+        assertEquals(char1,classUnderTest.get(17));
+        Character char2 = 'a';
+        assertEquals(char2,classUnderTest.get(3));
+        Character char3 = 'w';
+        assertEquals(char3,classUnderTest.get(25));
+        Character char4 = 'x';
+        assertEquals(char4,classUnderTest.get(0));
 
         classUnderTest = new CaesarCipher(13);
-        assertEquals('w',classUnderTest.get(9));
-        assertEquals('a',classUnderTest.get(13));
+        Character char5 = 'w';
+        assertEquals(char5,classUnderTest.get(9));
+        Character char6 = 'a';
+        assertEquals(char6,classUnderTest.get(13));
     }
 
     @Test
