@@ -5,23 +5,23 @@
 
 Your readme should include the following information. Each student needs to submit all of this information independently, even when pair programming. 
 
-Programming Partner Name:
+Programming Partner Name: N/A
 
-Other Collaborators (and kudos to people who were especially helpful):
+Other Collaborators (and kudos to people who were especially helpful): TA Jade Lilian 
 
-References Used:
+References Used: Geeks for Geeks - principle of the caesar cioher
 
 
 ## Reflection Questions
 
 What was your favorite part of this assignment?
 
-Creating Caesar cipher itslef, thinking about how to shift the objects within array
+I really enjoyed creating the Caesar cipher. It was satisfying to see how shifting letters within an array could transform a message. I liked figuring out how to move the elements and handling cases when the shift wrapped around the end of the array—it felt like solving a neat little puzzle.
 
 What was most challenging about this assignment?
 
-Making sure that all the tests are running and debugging them 
+Debugging was definitely the toughest part. I spent a lot of time making sure all the tests passed, and it was sometimes frustrating to track down the little mistakes that were causing the tests to fail. However, each bug fixed made the code feel more solid and taught me a bit more about careful testing.
 
 General comments on your experience with this assignment:
 
-It was very interesting in terms of both working with new platform (GitHub classroom) and being in the role of tester 
+Working with GitHub Classroom for the first time was a cool experience. It pushed me to adopt new tools and step into the tester role, which gave me a fresh perspective on the importance of thorough testing. 
